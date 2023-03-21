@@ -10,7 +10,8 @@ namespace Learning {
             Console.WriteLine("Input two:");
             byte number_2 = Convert.ToByte(Console.ReadLine());
 
-            Console.WriteLine(number_1 + number_2);
+            Console.WriteLine("The sum is: " + (number_1 + number_2));
+            Console.ReadKey();
             
         }
     }
