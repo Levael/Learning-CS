@@ -1,15 +1,20 @@
-D:\Programming\GitHub projects\Learning-CS\test-project\bin\Debug\net7.0\test-project.exe
-D:\Programming\GitHub projects\Learning-CS\test-project\bin\Debug\net7.0\test-project.deps.json
-D:\Programming\GitHub projects\Learning-CS\test-project\bin\Debug\net7.0\test-project.runtimeconfig.json
-D:\Programming\GitHub projects\Learning-CS\test-project\bin\Debug\net7.0\test-project.dll
-D:\Programming\GitHub projects\Learning-CS\test-project\bin\Debug\net7.0\test-project.pdb
 D:\Programming\GitHub projects\Learning-CS\test-project\obj\Debug\net7.0\test-project.csproj.AssemblyReference.cache
 D:\Programming\GitHub projects\Learning-CS\test-project\obj\Debug\net7.0\test-project.GeneratedMSBuildEditorConfig.editorconfig
 D:\Programming\GitHub projects\Learning-CS\test-project\obj\Debug\net7.0\test-project.AssemblyInfoInputs.cache
 D:\Programming\GitHub projects\Learning-CS\test-project\obj\Debug\net7.0\test-project.AssemblyInfo.cs
 D:\Programming\GitHub projects\Learning-CS\test-project\obj\Debug\net7.0\test-project.csproj.CoreCompileInputs.cache
-D:\Programming\GitHub projects\Learning-CS\test-project\obj\Debug\net7.0\test-project.dll
-D:\Programming\GitHub projects\Learning-CS\test-project\obj\Debug\net7.0\refint\test-project.dll
-D:\Programming\GitHub projects\Learning-CS\test-project\obj\Debug\net7.0\test-project.pdb
 D:\Programming\GitHub projects\Learning-CS\test-project\obj\Debug\net7.0\test-project.genruntimeconfig.cache
-D:\Programming\GitHub projects\Learning-CS\test-project\obj\Debug\net7.0\ref\test-project.dll
+D:\Programming\net7.0\test-project.exe
+D:\Programming\net7.0\test-project.deps.json
+D:\Programming\net7.0\test-project.runtimeconfig.json
+D:\Programming\net7.0\test-project.dll
+D:\Programming\net7.0\test-project.pdb
+D:\Programming\GitHub projects\Learning-CS\test-project\bin\Debug\net7.0\test_project.exe
+D:\Programming\GitHub projects\Learning-CS\test-project\bin\Debug\net7.0\test_project.deps.json
+D:\Programming\GitHub projects\Learning-CS\test-project\bin\Debug\net7.0\test_project.runtimeconfig.json
+D:\Programming\GitHub projects\Learning-CS\test-project\bin\Debug\net7.0\test_project.dll
+D:\Programming\GitHub projects\Learning-CS\test-project\bin\Debug\net7.0\test_project.pdb
+D:\Programming\GitHub projects\Learning-CS\test-project\obj\Debug\net7.0\test_project.dll
+D:\Programming\GitHub projects\Learning-CS\test-project\obj\Debug\net7.0\refint\test_project.dll
+D:\Programming\GitHub projects\Learning-CS\test-project\obj\Debug\net7.0\test_project.pdb
+D:\Programming\GitHub projects\Learning-CS\test-project\obj\Debug\net7.0\ref\test_project.dll

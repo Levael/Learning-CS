@@ -6,6 +6,7 @@
     <RootNamespace>test_project</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <AssemblyName>test_project</AssemblyName>
   </PropertyGroup>
 
 </Project>
