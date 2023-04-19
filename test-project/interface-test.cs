@@ -1,4 +1,4 @@
-// Not tested
+// NOT TESTED
 
 using System;
 
@@ -10,17 +10,28 @@ public class Program
         Console.WriteLine("Type: " + Desert_Eagle.getName(Desert_Eagle));
         for (int i = 0; i < 4; i++) Desert_Eagle.shoot();
         Desert_Eagle.reload();
-        Console.WriteLine("End");
+        Console.WriteLine(Desert_Eagle.name + " " + Desert_Eagle.weight);
+        Desert_Eagle.color = "red";
+        Console.WriteLine(Desert_Eagle.color);
     }
 }
 
-interface IWeapon {
+interface IThing {
+    int weight {get;}
+    string color {get; set;}
+}
+
+interface IWeapon : IThing{
     void shoot();
     void reload();
     string getName(IWeapon weapon);
 }
 
-class Gun : IWeapon {
+interface IName {
+    string name {get;}
+}
+
+class Gun : IWeapon, IName {
     public void shoot () {
         Console.WriteLine("shoot");
     }
@@ -32,6 +43,10 @@ class Gun : IWeapon {
     public string getName (IWeapon weapon) {
         return weapon.GetType().ToString();
     }
+    
+    public int weight {get => 49;}
+    public string color {get; set;}
+    public string name {get => "Nusha";}
     
     public void justFunc () {
         Console.WriteLine("Not necessary");
