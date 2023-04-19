@@ -8,6 +8,8 @@ namespace test_project {
             //
             // PrintArrayLoop(test_array);
             // PrintArrayRecursion(test_array, 1);
+            
+            new Top().foo();    // should write "bottom, middle, top"
                 
             Console.ReadKey();
         }
